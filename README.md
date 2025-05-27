@@ -200,7 +200,3 @@ This is a development version of RESQUATO with the following limitations:
 ## 📞 Support
 
 For technical support or feature requests, use the in-app chatbot or contact the development team through the EMAIL: srikrishnawebdeveloper@gmail.com 
-
----
-
-**RESQUATO** - Your reliable partner for vehicle services on-demand! 🚗💨

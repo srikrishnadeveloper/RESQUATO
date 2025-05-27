@@ -195,13 +195,11 @@ This is a development version of RESQUATO with the following limitations:
 4. Push to the branch
 5. Create a Pull Request
 
-## 📄 License
 
-This project is part of a development portfolio. Please contact the author for usage rights.
 
 ## 📞 Support
 
-For technical support or feature requests, use the in-app chatbot or contact the development team.
+For technical support or feature requests, use the in-app chatbot or contact the development team through the EMAIL: srikrishnawebdeveloper@gmail.com 
 
 ---
 
